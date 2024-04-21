@@ -1,0 +1,19 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color:beige;
+}
+
+.add{
+  padding: 5px;
+  margin-right: 10px;
+  margin-bottom: 2rem;
+}
+
+.remove{
+  padding: 5px;
+  margin-right: 10px;
+  margin-bottom: 2rem;
+}
