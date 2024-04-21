@@ -1,10 +1,11 @@
-import './App.css'
+import Test from "./Test"
 
 function App() {
   
   return (
     <>
-     <p className='heading'>Hello</p>
+     <p>Hello</p>
+     <Test/>
     </>
   )
 }
